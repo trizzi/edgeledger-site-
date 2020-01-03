@@ -1,2 +1,2 @@
 # edgeledger-site-
-done with CSS and a bit of Javascript
+Done with CSS and a bit of Javascript
